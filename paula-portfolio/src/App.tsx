@@ -377,7 +377,7 @@ function App() {
 
         <div className="footer-socials">
           <a
-            href="https://github.com/"
+            href="https://github.com/paulaasteller"
             target="_blank"
             rel="noreferrer"
             aria-label="GitHub"
@@ -387,7 +387,7 @@ function App() {
           </a>
 
           <a
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/maria-paula-steller-alvarado-b40a37173/?isSelfProfile=true"
             target="_blank"
             rel="noreferrer"
             aria-label="LinkedIn"
@@ -397,7 +397,7 @@ function App() {
           </a>
 
           <a
-            href="mailto:TU_CORREO@ejemplo.com"
+            href="mailto:paula.stelleralvarado2006@gmail.com"
             aria-label="Correo electrónico"
             title="Correo electrónico"
           >
